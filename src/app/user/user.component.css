@@ -1,0 +1,10 @@
+.btn-primary:hover {
+    color: #fff;
+    background: #d34347 linear-gradient(180deg, #e29295, #d34347) repeat-x;
+    border-color: #d34347;
+}
+.btn-primary {
+    color: #fff;
+    background: #d34347 linear-gradient(180deg, #e29295, #d34347) repeat-x;
+    border-color: #d34347;
+}
